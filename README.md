@@ -1,2 +1,3 @@
 # hello-world
-Tiny c server
+Toni Oduor
+A commited network developer in any language that does the work.
